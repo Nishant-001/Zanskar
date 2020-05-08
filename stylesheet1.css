@@ -1,0 +1,16 @@
+body{
+    background-color:beige;
+    background-image: url("images/1.jpg");
+    background-repeat: no-repeat;
+    background-position:right;
+    
+   
+}
+h1{
+    border:10px solid red;
+}
+
+h2,h3,h4,h5{
+    text-align: right;
+    color: teal;
+}
